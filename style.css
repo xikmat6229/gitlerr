@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;500&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    width: 90%;
+height: 102px;
+
+
+}
+nav .header-logo{
+margin-left: 185px;
+margin-top: 51px;
+}
+nav{
+    display: flex;
+    align-items: center;
+}
+ul  a{
+    text-decoration: none;
+    font-family: Roboto Mono;
+font-size: 40px;
+font-weight: 1000;
+line-height: 53px;
+letter-spacing: 0em;
+text-align: center;
+color: #000;
+width: 500px;
+height: 53px;
+border: 1px;
+text-shadow: 1px 6px 2px rgba(55, 26, 171, 0.6);
+margin-left: 65px;
+}
+ul{
+   margin-left: 533px;
+    margin-top: 49px;
+    list-style-type: none;
+    width: 600px;
+    
+    
+   
+}
+.container1{
+    margin-left: 85px;
+    margin-top: 64px;
+    margin-right: 259px;
+    display: flex;
+
+    width: 120px;
+   
+}
+.right .div1{
+    width: 164px;
+    height: 164px;
+    top: 166px;
+    left: 931px;
+    border-radius: 5px;
+            background-color: white ;
+    margin-left: 59px;
+    box-shadow:1px 10px 10px 10px rgb(30, 226, 30);
+}
+.right .div2{
+    width: 164px;
+    height: 164px;
+    top: 166px;
+    left: 931px;
+    border-radius: 5px;
+    
+    margin-left: 59px;
+    -webkit-box-shadow: 9px 7px 45px 29px rgba(30, 71, 103, 0.2);
+-moz-box-shadow: 9px 7px 45px 29px rgba(30, 71, 103, 0.2);
+box-shadow: 9px 7px 45px 29px rgba(30, 71, 103, 0.2);
+}
+.right .div3{
+    width: 164px;
+    height: 164px;
+    top: 166px;
+    left: 931px;
+    border-radius: 5px;
+    
+    margin-left: 59px;
+    -webkit-box-shadow: 5px 5px 5px -5px rgba(30, 71, 103, 0.6);
+    -moz-box-shadow: 5px 5px 5px -5px rgba(30, 71, 103, 0.6);
+    box-shadow: 5px 5px 5px -5px rgba(30, 71, 103, 0.6);
+}
+.right .div4{
+    width: 164px;
+    height: 164px;
+    top: 166px;
+    left: 931px;
+    border-radius: 5px;
+    background-color:white;
+    margin-left: 59px;
+   box-shadow: 1px 5px 5px 5px gray;
+}
+.right .div5{
+    width: 164px;
+    height: 164px;
+    top: 166px;
+    left: 931px;
+    border-radius: 5px;
+    
+    margin-left: 59px;
+box-shadow: 4px 3px 10px 3px gray;
+}
+.right .div6{
+    width: 164px;
+    height: 164px;
+    top: 166px;
+    left: 931px;
+    border-radius: 5px;
+    margin-left: 59px;
+    box-shadow: 0px 5px 5px 5px red;
+}
+.right .div7{
+    width: 164px;
+    height: 164px;
+    top: 166px;
+    left: 931px;
+    border-radius: 5px;
+    margin-left: 59px;
+    box-shadow:1px 10px 10px 10px blue;
+}
+.right .div8{
+    width: 164px;
+    height: 164px;
+    top: 166px;
+    left: 931px;
+    border-radius: 5px;
+    margin-left: 59px;
+    box-shadow: 4px 5px 8px 10px gray;
+}
+.right .div9{
+    width: 164px;
+    height: 164px;
+    top: 166px;
+    left: 931px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px -5px rgba(30, 71, 103, 0.6);
+    margin-left: 59px;
+    
+}
+.right{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+
+
+}
+ .right .div1{
+   
+}
+.logo2{
+  background-position-x: 1175px;
+  background-position-y: 40%;
+
+}
+ .logo2 img{
+    position: absolute;
+    margin-left: 200px;
+    margin-bottom: 300px;
+ }
